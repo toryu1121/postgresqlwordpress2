@@ -143,3 +143,4 @@ bin/
 * [Setting Up a Local Environment on Linux (Apache)](https://github.com/mhoofman/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Linux-\(Apache\))
 * [Setting Up a Local Environment on Mac OS X](https://github.com/mhoofman/wordpress-heroku/wiki/Setting-Up-a-Local-Environment-on-Mac-OS-X)
 * [More...](https://github.com/mhoofman/wordpress-heroku/wiki)
+# postgresqlwordpress2
